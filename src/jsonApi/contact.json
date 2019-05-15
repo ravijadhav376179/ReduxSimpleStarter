@@ -1,0 +1,31 @@
+{
+  "contactAddress" :[
+    {
+      "office": "office1",
+      "address1":"Divyashree Technopark",
+      "address2":"whitefield",
+      "city":"Bangalore",
+      "state":"Karnataka",
+      "country":"India",
+      "zipcode":"560034"
+    },
+    {
+      "office": "office2",
+      "address1":"No 72, Hosur Road",
+      "address2":"Electronic City",
+      "city":"Bangalore",
+      "state":"Karnataka",
+      "country":"India",
+      "zipcode":"560023"
+    },
+    {
+      "office": "office3",
+      "address1":"SJP 1, Doddakanelli",
+      "address2":"Sarjapur Main Rd",
+      "city":"Bangalore",
+      "state":"Karnataka",
+      "country":"India",
+      "zipcode":"560056"
+    }
+  ]
+}

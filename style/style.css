@@ -1,0 +1,11 @@
+.banner_div{
+  background: #CCC;
+  margin-bottom: 10px;
+  border: 1px dashed #000;
+}
+.map{
+    width: 500px;
+    height: 300px;
+    left: 55px;
+    position: relative;
+}
